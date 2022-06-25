@@ -1,7 +1,8 @@
 # tic-tac-toe-AI
 
 In this project I have used the Turtle library to create a user interface for a game of tic tac toe in which we play against an AI player(X). 
-The AI selects the best posible move using the minimax algorithm.
+
+The AI selects the best possible move using the minimax algorithm.
 
 
 
